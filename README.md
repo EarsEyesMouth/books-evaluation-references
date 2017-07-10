@@ -55,4 +55,4 @@
 
 ***
 
-*AlexLEWIS*
+**管理小组成员：** *[AlexLEWIS](https://github.com/alexinea)*、*[贾顺名](https://github.com/Jiasm)*、*[Max Zhang](https://github.com/maxzhang1985)*
