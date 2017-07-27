@@ -1,0 +1,38 @@
+<table>
+  <tr>
+    <td>书名</td>
+    <td><填写您要批评的书名></td>
+  </tr>
+  <tr>
+    <td>封面</td>
+    <td><img src="http://" /></td>
+  </tr>
+  <tr>
+    <td>作者</td>
+    <td><填写该书作者></td>
+  </tr>
+  <tr>
+    <td>出版社</td>
+    <td><填写该书出版社></td>
+  </tr>
+  <tr>
+    <td>出版日期</td>
+    <td>20XX年X月X日</td>
+  </tr>
+  <tr>
+    <td>ISBN</td>
+    <td><填写该书的ISBN></td>
+  </tr>
+  <tr>
+    <td>建议</td>
+    <td><填写您的建议></td>
+  </tr>
+  <tr>
+    <td>评价</td>
+    <td><填写您的评价></td>
+  </tr>
+  <tr>
+    <td>PDF链接</td>
+    <td><a href="http://">点击下载</a></td>
+  </tr>
+</table>
