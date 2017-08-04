@@ -32,7 +32,7 @@
     <td><填写您的评价></td>
   </tr>
   <tr>
-    <td>PDF链接</td>
+    <td>PDF样本链接</td>
     <td><a href="http://">点击下载</a></td>
   </tr>
 </table>
